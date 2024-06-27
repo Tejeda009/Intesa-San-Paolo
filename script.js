@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function createPopup() {
       const popup = document.createElement('div');
       popup.classList.add('popup');
-      popup.textContent = 'Pagaci!';
+      popup.textContent = 'Pagaci! da Ruben';
       document.body.appendChild(popup);
   
       const maxWidth = window.innerWidth - popup.offsetWidth;
