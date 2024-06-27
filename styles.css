@@ -70,7 +70,7 @@ body {
   
   .popup {
     position: fixed;
-    background-color: white;
+    background-color: black;
     color: limegreen; /* Changed text color to green */
     border: 1px solid red;
     padding: 10px;
