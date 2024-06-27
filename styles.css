@@ -44,16 +44,16 @@ body {
   
   @keyframes changeLetters {
     0%, 100% {
-      content: "You have been hacked!";
+      content: "Sei Stato hackerato dall'alta squadriglia";
     }
     25% {
-      content: "Y0u h4ve b33n h4ck3d!";
+      content: "Swi St@t0 h#ckera7o dall'ALTA SQUAdrigl1ià";
     }
     50% {
-      content: "You h@ve been h@cked!";
+      content: "s3i %tatl 8acke4atò dal*'ALTA Squadrigl1a";
     }
     75% {
-      content: "You have been h@cked!";
+      content: "PAGACI";
     }
   }
   
